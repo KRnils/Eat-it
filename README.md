@@ -1,1 +1,1 @@
-# Eat-it.github.io
+# Eat-it
